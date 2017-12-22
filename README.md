@@ -18,6 +18,6 @@ before fc_layer, i reshape the output of pool2 layer
 fully connect layer return a vector with 512 dimension
 
 input        conv1_output  pooling1_output  conv2_output   pooling2_output      reshape      fc_output   num_class
-1@28*28  ->  32@24*@4  ->  32@12*12  ->     64@8*8  ->     64@4*4           ->  64*4*4  ->   512  ->     10
+1@28*28  ->  32@24*@4  ->  32@12*12  ->     64@8*8  ->     64@4*4           ->  64@4*4  ->   512  ->     10
 
 after 20 epoch , the accuracy on test is 99.2%
