@@ -1,0 +1,102 @@
+batch_size: 128	conv1_filter: 32	kernel1_size: 5	conv2_filter: 64	kernel2_size: 5	num_epochs: 20	fc_size: 512	l2_lambda:         0.000500	dropout_keep_prob: 0.800000	learning_rate:0.001000
+Initializing Variables
+Epoch: 0	Batch: 100	Train Loss: 1.87859758496	Train Accuracy: 0.823515625
+Epoch: 0	Batch: 200	Train Loss: 1.53549057603	Train Accuracy: 0.889375
+Epoch: 0	Batch: 300	Train Loss: 1.36633340577	Train Accuracy: 0.915364583333
+going to increment epoch counter....
+Epoch: 0	validate Loss: 0.868748036715	validate Accuracy: 0.976262019231
+Epoch: 1	Batch: 100	Train Loss: 0.821558536887	Train Accuracy: 0.977109375
+Epoch: 1	Batch: 200	Train Loss: 0.776720816195	Train Accuracy: 0.9816015625
+Epoch: 1	Batch: 300	Train Loss: 0.744789503813	Train Accuracy: 0.981901041667
+going to increment epoch counter....
+Epoch: 1	validate Loss: 0.604576192605	validate Accuracy: 0.984775641026
+Epoch: 2	Batch: 100	Train Loss: 0.578034411669	Train Accuracy: 0.98546875
+Epoch: 2	Batch: 200	Train Loss: 0.55029687345	Train Accuracy: 0.98796875
+Epoch: 2	Batch: 300	Train Loss: 0.530575299362	Train Accuracy: 0.987838541667
+going to increment epoch counter....
+Epoch: 2	validate Loss: 0.455668352353	validate Accuracy: 0.985977564103
+Epoch: 3	Batch: 100	Train Loss: 0.429266569018	Train Accuracy: 0.989375
+Epoch: 3	Batch: 200	Train Loss: 0.411296814233	Train Accuracy: 0.990546875
+Epoch: 3	Batch: 300	Train Loss: 0.399101373255	Train Accuracy: 0.990572916667
+going to increment epoch counter....
+Epoch: 3	validate Loss: 0.358869116658	validate Accuracy: 0.987279647436
+Epoch: 4	Batch: 100	Train Loss: 0.333924061954	Train Accuracy: 0.99234375
+Epoch: 4	Batch: 200	Train Loss: 0.322130638957	Train Accuracy: 0.9923046875
+Epoch: 4	Batch: 300	Train Loss: 0.314098955989	Train Accuracy: 0.992239583333
+going to increment epoch counter....
+Epoch: 4	validate Loss: 0.292486190414	validate Accuracy: 0.986278044872
+Epoch: 5	Batch: 100	Train Loss: 0.267953775227	Train Accuracy: 0.99265625
+Epoch: 5	Batch: 200	Train Loss: 0.258563437834	Train Accuracy: 0.9934375
+Epoch: 5	Batch: 300	Train Loss: 0.253376178096	Train Accuracy: 0.993411458333
+going to increment epoch counter....
+Epoch: 5	validate Loss: 0.245783692369	validate Accuracy: 0.988481570513
+Epoch: 6	Batch: 100	Train Loss: 0.222682739943	Train Accuracy: 0.99265625
+Epoch: 6	Batch: 200	Train Loss: 0.215142122135	Train Accuracy: 0.9940625
+Epoch: 6	Batch: 300	Train Loss: 0.211018847475	Train Accuracy: 0.99421875
+going to increment epoch counter....
+Epoch: 6	validate Loss: 0.215627544201	validate Accuracy: 0.987079326923
+Epoch: 7	Batch: 100	Train Loss: 0.188695006073	Train Accuracy: 0.994140625
+Epoch: 7	Batch: 200	Train Loss: 0.182930955961	Train Accuracy: 0.9951171875
+Epoch: 7	Batch: 300	Train Loss: 0.18009033064	Train Accuracy: 0.994947916667
+going to increment epoch counter....
+Epoch: 7	validate Loss: 0.186747454298	validate Accuracy: 0.989383012821
+Epoch: 8	Batch: 100	Train Loss: 0.163309823126	Train Accuracy: 0.9953125
+Epoch: 8	Batch: 200	Train Loss: 0.158977985829	Train Accuracy: 0.9955859375
+Epoch: 8	Batch: 300	Train Loss: 0.15721142148	Train Accuracy: 0.995260416667
+going to increment epoch counter....
+Epoch: 8	validate Loss: 0.165646256354	validate Accuracy: 0.990284455128
+Epoch: 9	Batch: 100	Train Loss: 0.144396638125	Train Accuracy: 0.996328125
+Epoch: 9	Batch: 200	Train Loss: 0.140932338089	Train Accuracy: 0.99625
+Epoch: 9	Batch: 300	Train Loss: 0.139506903539	Train Accuracy: 0.996015625
+going to increment epoch counter....
+Epoch: 9	validate Loss: 0.153738431824	validate Accuracy: 0.989783653846
+Epoch: 10	Batch: 100	Train Loss: 0.128884000778	Train Accuracy: 0.996640625
+Epoch: 10	Batch: 200	Train Loss: 0.126604654528	Train Accuracy: 0.9966796875
+Epoch: 10	Batch: 300	Train Loss: 0.125653571089	Train Accuracy: 0.996510416667
+going to increment epoch counter....
+Epoch: 10	validate Loss: 0.142503036807	validate Accuracy: 0.989383012821
+Epoch: 11	Batch: 100	Train Loss: 0.118765340298	Train Accuracy: 0.9965625
+Epoch: 11	Batch: 200	Train Loss: 0.116044309735	Train Accuracy: 0.99703125
+Epoch: 11	Batch: 300	Train Loss: 0.115022220562	Train Accuracy: 0.996927083333
+going to increment epoch counter....
+Epoch: 11	validate Loss: 0.133108805292	validate Accuracy: 0.990484775641
+Epoch: 12	Batch: 100	Train Loss: 0.108724971339	Train Accuracy: 0.997109375
+Epoch: 12	Batch: 200	Train Loss: 0.106401222236	Train Accuracy: 0.9974609375
+Epoch: 12	Batch: 300	Train Loss: 0.105805974652	Train Accuracy: 0.997473958333
+going to increment epoch counter....
+Epoch: 12	validate Loss: 0.126318475566	validate Accuracy: 0.989783653846
+Epoch: 13	Batch: 100	Train Loss: 0.100611324236	Train Accuracy: 0.997109375
+Epoch: 13	Batch: 200	Train Loss: 0.0990313308686	Train Accuracy: 0.99765625
+Epoch: 13	Batch: 300	Train Loss: 0.0989078896741	Train Accuracy: 0.997526041667
+going to increment epoch counter....
+Epoch: 13	validate Loss: 0.121325164365	validate Accuracy: 0.989483173077
+Epoch: 14	Batch: 100	Train Loss: 0.0951938150078	Train Accuracy: 0.99765625
+Epoch: 14	Batch: 200	Train Loss: 0.0936570172384	Train Accuracy: 0.9980078125
+Epoch: 14	Batch: 300	Train Loss: 0.0932610431314	Train Accuracy: 0.997838541667
+going to increment epoch counter....
+Epoch: 14	validate Loss: 0.116664897746	validate Accuracy: 0.989583333333
+Epoch: 15	Batch: 100	Train Loss: 0.0899508883804	Train Accuracy: 0.998046875
+Epoch: 15	Batch: 200	Train Loss: 0.088635154441	Train Accuracy: 0.998203125
+Epoch: 15	Batch: 300	Train Loss: 0.0884396677961	Train Accuracy: 0.997890625
+going to increment epoch counter....
+Epoch: 15	validate Loss: 0.108332963135	validate Accuracy: 0.991085737179
+Epoch: 16	Batch: 100	Train Loss: 0.0859970927238	Train Accuracy: 0.997890625
+Epoch: 16	Batch: 200	Train Loss: 0.0847456639633	Train Accuracy: 0.9982421875
+Epoch: 16	Batch: 300	Train Loss: 0.0847780676931	Train Accuracy: 0.998151041667
+going to increment epoch counter....
+Epoch: 16	validate Loss: 0.107638059327	validate Accuracy: 0.990284455128
+Epoch: 17	Batch: 100	Train Loss: 0.0822559350729	Train Accuracy: 0.9984375
+Epoch: 17	Batch: 200	Train Loss: 0.0813652346283	Train Accuracy: 0.998515625
+Epoch: 17	Batch: 300	Train Loss: 0.0814892144253	Train Accuracy: 0.998307291667
+going to increment epoch counter....
+Epoch: 17	validate Loss: 0.105372926841	validate Accuracy: 0.990584935897
+Epoch: 18	Batch: 100	Train Loss: 0.0802286542207	Train Accuracy: 0.99796875
+Epoch: 18	Batch: 200	Train Loss: 0.0789192212	Train Accuracy: 0.9984765625
+Epoch: 18	Batch: 300	Train Loss: 0.0790321980665	Train Accuracy: 0.998333333333
+going to increment epoch counter....
+Epoch: 18	validate Loss: 0.104256742753	validate Accuracy: 0.989883814103
+Epoch: 19	Batch: 100	Train Loss: 0.0771960110962	Train Accuracy: 0.998359375
+Epoch: 19	Batch: 200	Train Loss: 0.0763435258344	Train Accuracy: 0.99859375
+Epoch: 19	Batch: 300	Train Loss: 0.0765412664165	Train Accuracy: 0.998463541667
+going to increment epoch counter....
+Epoch: 19	validate Loss: 0.100359018414	validate Accuracy: 0.990084134615
